@@ -2,6 +2,7 @@
 A simple turtle-guessing race game in python
 In the beginning of the game, each player must choose the color of the turtle that he/she thinks will win.
 Turtles are then being moved forward with random number of steps. The turtle that crosses the line first wins.
+The following code is pretty much self-explanatory.
 '''
 
 
